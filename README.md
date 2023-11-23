@@ -1,4 +1,4 @@
-# ProjectFirstJS
+# TestSuitePlus
 
 In the pursuit of establishing a robust testing framework, I have not only focused on the basic functionalities but also incorporated advanced testing criteria to enhance the overall quality of the test scenarios. For user login, the .js test cases not only validate successful login scenarios but also meticulously evaluate edge cases, such as invalid usernames or passwords, to ensure a comprehensive examination of system resilience.
 
